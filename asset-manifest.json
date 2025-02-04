@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/wedding-countdown/static/css/main.f4f01dd0.chunk.css",
-    "main.js": "/wedding-countdown/static/js/main.55385493.chunk.js",
-    "main.js.map": "/wedding-countdown/static/js/main.55385493.chunk.js.map",
+    "main.css": "/wedding-countdown/static/css/main.6ee1b0af.chunk.css",
+    "main.js": "/wedding-countdown/static/js/main.bc624715.chunk.js",
+    "main.js.map": "/wedding-countdown/static/js/main.bc624715.chunk.js.map",
     "runtime-main.js": "/wedding-countdown/static/js/runtime-main.6c1878b0.js",
     "runtime-main.js.map": "/wedding-countdown/static/js/runtime-main.6c1878b0.js.map",
     "static/js/2.76b5ee0c.chunk.js": "/wedding-countdown/static/js/2.76b5ee0c.chunk.js",
     "static/js/2.76b5ee0c.chunk.js.map": "/wedding-countdown/static/js/2.76b5ee0c.chunk.js.map",
     "index.html": "/wedding-countdown/index.html",
-    "precache-manifest.685d6936980993b7301962717f03125e.js": "/wedding-countdown/precache-manifest.685d6936980993b7301962717f03125e.js",
+    "precache-manifest.f0db370d251f9881003883e40620d454.js": "/wedding-countdown/precache-manifest.f0db370d251f9881003883e40620d454.js",
     "service-worker.js": "/wedding-countdown/service-worker.js",
-    "static/css/main.f4f01dd0.chunk.css.map": "/wedding-countdown/static/css/main.f4f01dd0.chunk.css.map",
+    "static/css/main.6ee1b0af.chunk.css.map": "/wedding-countdown/static/css/main.6ee1b0af.chunk.css.map",
     "static/js/2.76b5ee0c.chunk.js.LICENSE.txt": "/wedding-countdown/static/js/2.76b5ee0c.chunk.js.LICENSE.txt",
     "static/media/Vidhi-kishan-wedding-logo.png": "/wedding-countdown/static/media/Vidhi-kishan-wedding-logo.75d35f5b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6c1878b0.js",
     "static/js/2.76b5ee0c.chunk.js",
-    "static/css/main.f4f01dd0.chunk.css",
-    "static/js/main.55385493.chunk.js"
+    "static/css/main.6ee1b0af.chunk.css",
+    "static/js/main.bc624715.chunk.js"
   ]
 }
