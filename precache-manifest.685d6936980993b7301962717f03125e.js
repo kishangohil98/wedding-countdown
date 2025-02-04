@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "04788e5a8748437493f0174b9a66aae7",
+    "revision": "579cdedf376383691e3da78af1ba51df",
     "url": "/wedding-countdown/index.html"
   },
   {
-    "revision": "2a09c949bca262f82781",
+    "revision": "c03b096d38e3d603215c",
     "url": "/wedding-countdown/static/css/main.f4f01dd0.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wedding-countdown/static/js/2.76b5ee0c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2a09c949bca262f82781",
-    "url": "/wedding-countdown/static/js/main.afd5705f.chunk.js"
+    "revision": "c03b096d38e3d603215c",
+    "url": "/wedding-countdown/static/js/main.55385493.chunk.js"
   },
   {
     "revision": "ae7ffcc4164c0c38e563",
