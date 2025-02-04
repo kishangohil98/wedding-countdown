@@ -128,11 +128,11 @@ const Birthday = ({ name, day, month }) => {
         }}
       >
         <center>
-          <div class="contain-footer-info">
-            <span class="made-with">Made with 🤍 </span>
-            <span class="by">
+          <div className="contain-footer-info">
+            <span className="made-with">Made with 🤍 </span>
+            <span className="by">
               by{" "}
-              <a href="https://github.com/kishangohil98" class="byline">
+              <a href="https://github.com/kishangohil98" className="byline">
                 Kishan Gohil
               </a>
             </span>
