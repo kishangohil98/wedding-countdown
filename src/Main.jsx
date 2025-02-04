@@ -130,7 +130,7 @@ const Birthday = ({ name, day, month }) => {
             <span className="by">
               by{" "}
               <a href="https://github.com/kishangohil98" className="byline">
-                Kishan Gohil
+                Kishan G.
               </a>
             </span>
           </div>
