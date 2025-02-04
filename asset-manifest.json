@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/wedding-countdown/static/css/main.f4f01dd0.chunk.css",
-    "main.js": "/wedding-countdown/static/js/main.3bb8eae1.chunk.js",
-    "main.js.map": "/wedding-countdown/static/js/main.3bb8eae1.chunk.js.map",
+    "main.js": "/wedding-countdown/static/js/main.88763445.chunk.js",
+    "main.js.map": "/wedding-countdown/static/js/main.88763445.chunk.js.map",
     "runtime-main.js": "/wedding-countdown/static/js/runtime-main.6c1878b0.js",
     "runtime-main.js.map": "/wedding-countdown/static/js/runtime-main.6c1878b0.js.map",
-    "static/js/2.ec82d332.chunk.js": "/wedding-countdown/static/js/2.ec82d332.chunk.js",
-    "static/js/2.ec82d332.chunk.js.map": "/wedding-countdown/static/js/2.ec82d332.chunk.js.map",
+    "static/js/2.76b5ee0c.chunk.js": "/wedding-countdown/static/js/2.76b5ee0c.chunk.js",
+    "static/js/2.76b5ee0c.chunk.js.map": "/wedding-countdown/static/js/2.76b5ee0c.chunk.js.map",
     "index.html": "/wedding-countdown/index.html",
-    "precache-manifest.141aeca259d9bb2ba15783b53b4ab6cd.js": "/wedding-countdown/precache-manifest.141aeca259d9bb2ba15783b53b4ab6cd.js",
+    "precache-manifest.4b4990c9fa8d51aca9bfa26b86100096.js": "/wedding-countdown/precache-manifest.4b4990c9fa8d51aca9bfa26b86100096.js",
     "service-worker.js": "/wedding-countdown/service-worker.js",
     "static/css/main.f4f01dd0.chunk.css.map": "/wedding-countdown/static/css/main.f4f01dd0.chunk.css.map",
-    "static/js/2.ec82d332.chunk.js.LICENSE.txt": "/wedding-countdown/static/js/2.ec82d332.chunk.js.LICENSE.txt",
+    "static/js/2.76b5ee0c.chunk.js.LICENSE.txt": "/wedding-countdown/static/js/2.76b5ee0c.chunk.js.LICENSE.txt",
     "static/media/Vidhi-kishan-wedding-logo.png": "/wedding-countdown/static/media/Vidhi-kishan-wedding-logo.6020a8fc.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6c1878b0.js",
-    "static/js/2.ec82d332.chunk.js",
+    "static/js/2.76b5ee0c.chunk.js",
     "static/css/main.f4f01dd0.chunk.css",
-    "static/js/main.3bb8eae1.chunk.js"
+    "static/js/main.88763445.chunk.js"
   ]
 }
