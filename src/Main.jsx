@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 import Countdown from "./Countdown";
-import Logo from "./Vidhi-kishan-wedding-logo.png";
 
 const Birthday = ({ name, day, month }) => {
   // useState Hooks
