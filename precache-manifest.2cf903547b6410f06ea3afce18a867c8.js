@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "48f8b11b784b0484e5683dddacff2e41",
+    "revision": "04788e5a8748437493f0174b9a66aae7",
     "url": "/wedding-countdown/index.html"
   },
   {
-    "revision": "0f1793f3e381623512e6",
+    "revision": "2a09c949bca262f82781",
     "url": "/wedding-countdown/static/css/main.f4f01dd0.chunk.css"
   },
   {
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wedding-countdown/static/js/2.76b5ee0c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0f1793f3e381623512e6",
-    "url": "/wedding-countdown/static/js/main.88763445.chunk.js"
+    "revision": "2a09c949bca262f82781",
+    "url": "/wedding-countdown/static/js/main.afd5705f.chunk.js"
   },
   {
     "revision": "ae7ffcc4164c0c38e563",
     "url": "/wedding-countdown/static/js/runtime-main.6c1878b0.js"
   },
   {
-    "revision": "6020a8fc32a9bdd3b8f4506ae0b78047",
-    "url": "/wedding-countdown/static/media/Vidhi-kishan-wedding-logo.6020a8fc.png"
+    "revision": "75d35f5b91172de07ebb06f63e1059e1",
+    "url": "/wedding-countdown/static/media/Vidhi-kishan-wedding-logo.75d35f5b.png"
   }
 ]);
