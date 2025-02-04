@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/wedding-countdown/precache-manifest.68cd252ecfb7936d62f204c8a0038c4a.js"
+  "/wedding-countdown/precache-manifest.141aeca259d9bb2ba15783b53b4ab6cd.js"
 );
 
 self.addEventListener('message', (event) => {
