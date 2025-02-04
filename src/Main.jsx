@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Countdown from "./Countdown";
+import Logo from "./Vidhi-kishan-wedding-logo.png";
 
 const Birthday = ({ name, day, month }) => {
   // useState Hooks
@@ -113,11 +114,7 @@ const Birthday = ({ name, day, month }) => {
             {monthBday} {day}, {currentYear}🚀
           </p>
           <div className="credits">
-            <img
-              src={"/Vidhi-kishan-wedding-logo.png"}
-              alt="Vidhi-Kishan-Logo"
-              className="github-logo"
-            />
+            <img src={Logo} alt="Vidhi-Kishan-Logo" className="github-logo" />
           </div>
           {/* <Link to='/generate'>Generate Here</Link> */}
         </>
