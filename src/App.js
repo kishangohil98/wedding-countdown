@@ -8,7 +8,8 @@ import Generate from "./Generate";
 function App() {
   return (
     <div className="App">
-      <Switch>
+      <Main />
+      {/* <Switch>
         <Route exact path="/" component={Main} />
         <Route
           exact
@@ -16,7 +17,7 @@ function App() {
           component={RouterBirthday}
         />
         <Route exact path="/generate" component={Generate} />
-      </Switch>
+      </Switch> */}
     </div>
   );
 }
